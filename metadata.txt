@@ -17,7 +17,7 @@ email=silas.bittencourt.k@gmail.com
 about=Transform a shapefile directory to a geopackage
 
 tracker=github.com
-repository=github.com
+repository=https://github.com/Silas10/ShapeToGeopackage_qgis
 # End of mandatory metadata
 
 # Recommended items:
