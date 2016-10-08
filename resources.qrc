@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/shapeTOgeopackage" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
